@@ -1,6 +1,4 @@
 <?php
-    
-    
-echo '222gfgfgfgfgfg';
+echo '1';
     
 ?>
